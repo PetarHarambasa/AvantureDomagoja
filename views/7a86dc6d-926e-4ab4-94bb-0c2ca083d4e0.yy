@@ -1,0 +1,32 @@
+{
+    "id": "7a86dc6d-926e-4ab4-94bb-0c2ca083d4e0",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "7a86dc6d-926e-4ab4-94bb-0c2ca083d4e0",
+    "children": [
+        "32e499e2-8abd-4521-b181-b19e7661c9b8",
+        "78375eb9-0c26-4c88-b993-c9ae6f474d38",
+        "23bd5fa4-b0dc-455f-b81a-f3029a358360",
+        "bb9c96be-c3e6-4156-915c-2a40d3022e26",
+        "1d131f9e-fda7-40da-8ff7-4508286d8661",
+        "9d0993d4-672e-4923-a770-7ac2d04eca5e",
+        "d86d5926-4ee6-4df6-b9c6-fd555adb4bab",
+        "8a8ccbe9-929e-4491-87df-e1627ef9e938",
+        "967804bb-8696-42d7-b0dc-a6ce1944cb1d",
+        "63660713-ddf9-4f00-ac08-1905f01a04cc",
+        "d165d2a6-aee6-4f1f-a62f-fc32bfda3bad",
+        "967fb555-dc1e-49bb-b3d3-8f804ac1871a",
+        "745c26be-a615-49cc-95ab-5dc8a8e0f640",
+        "3d38344e-7cb0-435b-93be-55ac6a58526e",
+        "05de9d96-133d-4e4d-b921-5433516da1f3",
+        "99f8a902-26aa-443a-8f46-66d0c1b29b87",
+        "a3fd8fce-bd28-482d-a161-b063d36694ba",
+        "d9c1d531-8f68-4bc3-b7df-71de32a3e5a5",
+        "9be343ef-0502-43f6-b501-6022ab982221",
+        "9a1d82d4-27cc-4587-95c3-254d095b6950"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Covjek",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
